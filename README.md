@@ -30,18 +30,22 @@ The app requires a few environment variables to run correctly. Make sure to crea
 
 .env file
 
-``GEMINI_API_KEY=your-api-key
-LOG_FILE=queries.txt``
+```
+GEMINI_API_KEY=your-api-key
+LOG_FILE=queries.txt
+```
 
  Note: Get your API key from OpenAI (or any other LLM service you’re using) and replace your-api-key with your actual key.
 4. Run the Application
 
 In a Jupyter Notebook:
 
-`from assistant import Assistant
+```
+from assistant import Assistant
 
 assistant = Assistant()
-assistant.run()`
+assistant.run()
+```
 
 On the command line:
 
@@ -79,11 +83,4 @@ We love contributions! If you have an idea for improving the assistant, feel fre
 ## 👏 Special Thanks
 
 A big thanks to all the contributors and open-source projects that made this assistant possible. You’re welcome to join our journey!
-
-## 🧑‍💻 Contact
-
-Feel free to reach out if you have any questions or need help getting started!
-
- • Email: moyedansari@gmail.com
- • GitHub: m-ansari
 
