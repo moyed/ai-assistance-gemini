@@ -1,22 +1,20 @@
-Here is a structured and attractive README for your project, aimed at beginners, and designed for showcasing your work. This README emphasizes clarity, a friendly tone, and includes instructions on environment variables, basic application purposes, and more.
+# 💬 AI Assistant in Python 🌟
 
-💬 AI Assistant in Python 🌟
+Welcome to AI Assistant, an intelligent Python application built to answer your questions in natural language. This project is an excellent starting point for beginners who want to explore AI development, prompt engineering using gemini LLM.
 
-Welcome to AI Assistant, an intelligent Python application built to answer your questions in natural language. This project is an excellent starting point for beginners who want to explore AI development, prompt engineering, and class-based Python programming!
-
-🚀 What is this Application?
+## 🚀 What is this Application?
 
 This AI Assistant uses a Large Language Model (LLM) to generate responses based on user input. It provides a simple interaction where you can ask questions, and it returns answers. The application is a great hands-on introduction to the world of AI and Natural Language Processing (NLP).
 
-🎯 Main Features:
+## 🎯 Main Features
 
-	1.	🧠 Real-time AI Responses – Enter a question, and the assistant will give you a meaningful answer using LLM technology.
-	2.	📝 Query Logging – All interactions are logged in a text file for future reference.
-	3.	💻 Simple Setup – Easy to install and run in any environment, including Jupyter Notebooks.
-	4.	🔄 Class-Based Design – The logic is structured using Object-Oriented Programming (OOP) for clean and reusable code.
-	5.	🛠️ Expandable – Add more functionality as you grow as a developer.
+ 1. 🧠 Real-time AI Responses – Enter a question, and the assistant will give you a meaningful answer using LLM technology.
+ 2. 📝 Query Logging – All interactions are logged in a text file for future reference.
+ 3. 💻 Simple Setup – Easy to install and run in any environment, including Jupyter Notebooks.
+ 4.	🔄 Class-Based Design – The logic is structured using Object-Oriented Programming (OOP) for clean and reusable code.
+ 5.	🛠️ Expandable – Add more functionality as you grow as a developer.
 
-🏗️ How to Run the Application
+## 🏗️ How to Run the Application
 1. Clone the Repository
 
 git clone https://github.com/yourusername/ai-assistant-python.git
