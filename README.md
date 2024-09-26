@@ -49,15 +49,15 @@ assistant.run()
 
 On the command line:
 
-`python assist.py``
+`python assist.py`
 
 ## 🌱 Beginner Friendly!
 
 If you’re new to Python or AI, don’t worry! This project is designed with beginners in mind. Here’s why:
 
- • Simple and Clear Code – The project focuses on readability and ease of understanding.
- • Step-by-Step Setup – Follow the instructions, and you’ll be up and running in no time.
- • OOP Concepts – Learn the basics of class-based programming in Python by looking at how the Assistant class is structured.
+*  Simple and Clear Code – The project focuses on readability and ease of understanding.
+*  Step-by-Step Setup – Follow the instructions, and you’ll be up and running in no time.
+*  OOP Concepts – Learn the basics of class-based programming in Python by looking at how the Assistant class is structured.
 
 ## 🛠️ Customizing the Assistant
 
