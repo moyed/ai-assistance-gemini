@@ -55,26 +55,26 @@ On the command line:
 
 If you’re new to Python or AI, don’t worry! This project is designed with beginners in mind. Here’s why:
 
-*  Simple and Clear Code – The project focuses on readability and ease of understanding.
-*  Step-by-Step Setup – Follow the instructions, and you’ll be up and running in no time.
-*  OOP Concepts – Learn the basics of class-based programming in Python by looking at how the Assistant class is structured.
+* Simple and Clear Code – The project focuses on readability and ease of understanding.
+* Step-by-Step Setup – Follow the instructions, and you’ll be up and running in no time.
+* OOP Concepts – Learn the basics of class-based programming in Python by looking at how the Assistant class is structured.
 
 ## 🛠️ Customizing the Assistant
 
 Feel free to customize the assistant! You can add more features or connect it to different language models. Here are a few ideas to extend this project:
 
- • 🔍 Add More Functionality – Incorporate more advanced commands for your assistant.
- • 📊 Analytics – Track the most frequently asked questions by adding more logging details.
- • 🌐 Web Integration – Hook the assistant into a web application using Flask or FastAPI.
+* 🔍 Add More Functionality – Incorporate more advanced commands for your assistant.
+* 📊 Analytics – Track the most frequently asked questions by adding more logging details.
+* 🌐 Web Integration – Hook the assistant into a web application using Flask or FastAPI.
 
 ## 💡 Why This Project?
 
 This project is a great showcase of how you can start small and build something useful. As a beginner, it helps you:
 
- • 🌍 Understand basic AI concepts.
- • 🖥️ Practice Python and OOP.
- • 📂 Work with environment variables.
- • 📜 Log and analyze user interactions.
+* 🌍 Understand basic AI concepts.
+* 🖥️ Practice Python and OOP.
+* 📂 Work with environment variables.
+* 📜 Log and analyze user interactions.
 
 ## 🎉 Contributing
 
@@ -83,4 +83,3 @@ We love contributions! If you have an idea for improving the assistant, feel fre
 ## 👏 Special Thanks
 
 A big thanks to all the contributors and open-source projects that made this assistant possible. You’re welcome to join our journey!
-
